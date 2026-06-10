@@ -65,7 +65,7 @@
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": fals,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
